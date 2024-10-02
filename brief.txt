@@ -1,0 +1,20 @@
+# Afribite
+
+Guide:
+_ Fork the repository
+_ Clone the repository
+_ Run npm install to install all dependencies
+_ Run npm run dev to get to work
+_ Ensure you update the readme file with the basic information about the project and your contribution as a team member. (THIS IS COMPULSORY ELSE YOUR WORK WON"T BE GRADED.)
+_ Run this to see the effects of your tailwind styling (npx tailwindcss -i ./src/index.css -o ./src/App.css --watch
+). Do not make changes to your App.css file.
+
+NB: React router and tailwind has been installed already. Ensure you maintain the folder structure. Pages should be kept in the pages folder, context files should be in the context folder, components should be in the components folder. Thanks.
+
+Before pushing your work, ensure all commits have been made, pull from the upstream to ensure there are no conflicts, then send a pull request. If you push something that has errors, your work won't be merged.
+
+Link to Figma design: https://www.figma.com/design/31Tb0cduITGckCJkXPjdxd/Untitled?node-id=0-1&t=QhH9kCy8nxTQPsDy-1
+
+HAPPY CODING!!!!!
+
+
